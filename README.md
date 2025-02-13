@@ -1,1 +1,1 @@
-# django-app
+# Data Visualizer Tool
